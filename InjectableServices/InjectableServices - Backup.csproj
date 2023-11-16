@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    <Title>JsonProperty.EFCore</Title>
+    <PackageId>JsonProperty.EFCore</PackageId>
+    <Description>This project allows you to use JSON fields in EF Core without setting up Fluent API</Description>
+    <PackageTags>Json;EF;EFCore;Entity;Framework;Core;</PackageTags>
+    <PackageProjectUrl>https://github.com/maxchistt/JsonProperty.EFCore</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/maxchistt/JsonProperty.EFCore</RepositoryUrl>
+    <Authors>maxchistt</Authors>
+    <Copyright>Copyright (c) 2023 Maxim Chistyakov</Copyright>
+    <PackageLicenseFile>LICENSE.txt</PackageLicenseFile>
+    <PackageReadmeFile>README.md</PackageReadmeFile>
+    <RepositoryType>git</RepositoryType>
+  </PropertyGroup>
+
+</Project>
